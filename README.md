@@ -5,7 +5,8 @@
 ##### This data was donated by researchers of the University of Wisconsin and includes the measurements from digitized images of fine-needle aspirate of a breast mass.
 
 ## 2. Code and Resources Used ##### This project is created using Google Colab as the main IDE.
-##### Main Packages:** Pandas, Scikit-learn and TensorFlow Keras.##### This dataset has been taken from Kaggle.##### Kaggle link: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?resource=download
+##### Main Packages:** Pandas, Scikit-learn and TensorFlow Keras.
+##### This dataset has been taken from Kaggle.##### Kaggle link: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?resource=download
 
 ## 3. Methodology
 ### 3.1. Data Pipeline
