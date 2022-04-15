@@ -21,9 +21,9 @@
 
 ##### The model is trained with a batch size of 16 and for 25 epochs. The training accuracy achieved 98% and validation accuracy of 97%. The two figures below show the graph of the training process.
 
-![Loss Graph](img/training_vs_validation_loss.PNG) ![Accuracy Graph](img/training_vs_validation_accuracy.PNG)
+![Loss Graph](img/training_vs_validation_loss.png) ![Accuracy Graph](img/training_vs_validation_accuracy.png)
 
 ## 4. Results
 ##### Upon evaluating the model with test data, the model obtain the following test results, as shown in figure below.
 
-![Test Result](img/final_epoch.PNG)
+![Test Result](img/final_epoch.png)
