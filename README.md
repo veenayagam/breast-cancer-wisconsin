@@ -12,7 +12,7 @@
 
 ## 3. Methodology
 ### 3.1. Data Pipeline
-##### The data is first loaded and preprocessed by removing nulll values and remove unwanted features. Then the data undergoes one hot encoding for labels. Finally, the data splitted into train size of 70% and test size of 30% respectively.
+##### The data is first loaded and pre-processed by removing null values and remove unwanted features. Then the data undergoes one hot encoding for labels. Finally, the data split into train size of 70% and test size of 30% respectively.
 
 ### 3.2. Model Pipeline
 ##### Feedforward neural network is used for this classification problem. There are some regulization been added to overcome overfitting. Figure below shows the structure of the model.
