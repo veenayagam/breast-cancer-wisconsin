@@ -12,7 +12,7 @@ Kaggle link: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data?
 
 ## 3. Methodology
 ### 3.1. Data Pipeline
-The data is first loaded and pre-processed by removing null values and remove unwanted features. Then the data undergoes one-hot encoding for labels. The data split into train size of 70% and validation size of 30% respectively. The validation data is then further split into two portions which consist of test data with a size of validation data of 80% and test data of 20%.
+The data is first loaded and pre-processed by removing null values and remove unwanted features. Then the data undergoes one-hot encoding for labels. The data is split into train-validation-test sets, with a ratio of 60:20:20.
 
 ### 3.2. Model Pipeline
 Feedforward neural network is used for this classification problem. There are some regularizations have been added to overcome overfitting. The figure below shows the structure of the model.
