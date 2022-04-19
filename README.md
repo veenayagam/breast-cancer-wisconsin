@@ -1,4 +1,4 @@
-# Breast-Cancer-Wisconsin
+# Breast Cancer Wisconsin
 
 ## 1. Summary
 This is Data set to Classify the Benign and Malignant cells in the given data set using the description of the cells in the form of columnar attributes. There are Visualizations and Analyses for Support.
