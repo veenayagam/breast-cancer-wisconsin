@@ -1,7 +1,7 @@
 # Breast Cancer Wisconsin
 
 ## 1. Summary
-This project aims to classify whether the tumor is a Benign and Malignant cell in the given data set using the description of the cells. This data was donated by researchers of the University of Wisconsin and includes the measurements from digitized images of fine-needle aspirate of a breast mass.
+This project aims to classify whether the tumor is a Benign or Malignant cell in the given data set using the description of the cells. This data was donated by researchers of the University of Wisconsin and includes the measurements from digitized images of fine-needle aspirate of a breast mass.
 
 ## 2. Code and Resources Used
 *	This project is created using Google Colab as the main IDE.<br/>
